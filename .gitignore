@@ -13,6 +13,13 @@
 .csv
 .xlsx
 .html
+py_scripts_2020_09_28/data/
+py_scripts_2020_09_28/reports_shield/
+py_scripts_2020_09_28/.ipynb_checkpoints/
+py_scripts_2020_09_28/*.csv
+py_scripts_2020_09_28/*.html
+py_scripts_2020_09_28/*.xlsx
+
 
 #######
 # Python files to ignore
